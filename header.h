@@ -4,12 +4,12 @@
 
 using namespace std;
 
-const int N_STACK = 2025; // [cite: 107]
+const int N_STACK = 2025; 
 typedef string infotypeStack;
 
 struct Stack {
-    infotypeStack info[N_STACK]; // [cite: 109, 111]
-    int top; // [cite: 110]
+    infotypeStack info[N_STACK]; 
+    int top; 
 };
 
 void create_stack(Stack &S);
