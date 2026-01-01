@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1767258162 source:c:\users\fawzan m\onedrive\documents\semester_5\strukdat\remet_uts\main.cpp
+	<iostream>
+	"header.h"
+
+1767258171 c:\users\fawzan m\onedrive\documents\semester_5\strukdat\remet_uts\header.h
+	<iostream>
+
